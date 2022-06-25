@@ -1,0 +1,27 @@
+.careGuide{
+    width: 70%;
+    background-color: #F5F5F5;
+    border-radius: 15px;
+    padding: 5%;
+    margin: 5%;
+}
+
+.lizardPic{
+    width:220px;
+    height:220px;
+    object-fit:cover;
+    border-radius:50%;
+}
+
+.summary{
+    width:80%;
+    border-radius: 15px;
+    padding: 2%;
+    background-color: #EDF49A;
+}
+
+.centred{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
